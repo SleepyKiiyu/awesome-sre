@@ -389,11 +389,11 @@ Contributions are always welcome!
 * [Inhumanity of Root Cause Analysis](https://www.verica.io/blog/inhumanity-of-root-cause-analysis/)
 
 ## Capacity Planning
-* [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
-* [SouthBay SRE: Cloud Capacity Planning](https://www.youtube.com/watch?v=MDQ0uEUmLOo)
-* [Intent-based Capacity Planning and Autoscaling with Kubernetes](https://www.squadcast.com/blog/intent-based-capacity-planning-and-autoscaling-with-kubernetes)
-* [How do you do Capacity Planning](https://jvns.ca/blog/2016/03/20/how-do-you-do-capacity-planning/)
-* [How Back Market SREs prepared for Black Friday](https://medium.com/back-market-engineering/how-back-market-sres-prepared-for-black-friday-5f017f343408)
+* [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf) :green_book:
+* [SouthBay SRE: Cloud Capacity Planning](https://www.youtube.com/watch?v=MDQ0uEUmLOo) :green_book:
+* [Intent-based Capacity Planning and Autoscaling with Kubernetes](https://www.squadcast.com/blog/intent-based-capacity-planning-and-autoscaling-with-kubernetes) :green_book:
+* [How do you do Capacity Planning](https://jvns.ca/blog/2016/03/20/how-do-you-do-capacity-planning/) :green_book:
+* [How Back Market SREs prepared for Black Friday](https://medium.com/back-market-engineering/how-back-market-sres-prepared-for-black-friday-5f017f343408) :green_book:
 
 ## Service Level Agreement
 * [If It's in the Cloud, Get It on Paper: Cloud Computing Contract Issues](http://er.educause.edu/articles/2010/6/if-its-in-the-cloud-get-it-on-paper-cloud-computing-contract-issues)
