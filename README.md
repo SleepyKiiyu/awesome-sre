@@ -447,10 +447,10 @@ Contributions are always welcome!
 * [Best practices for setting SLOs and SLIs for modern, complex systems](https://newrelic.com/blog/best-practices/best-practices-for-setting-slos-and-slis-for-modern-complex-systems)
 
 ## Performance
-* [Performance Checklists for SREs](https://www.brendangregg.com/blog/2016-05-04/srecon2016-perf-checklists-for-sres.html)
-* [South Bay SRE Meetup - Netflix Cloud Performance Team](https://youtu.be/uQ0flQOtQEA)
-* [Software Performance Analysis Guided By SLOs](https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca)
-* [A framework for pragmatic performance engineering](https://mterwill.com/posts/framework-for-performance-engineering/)
+* [Performance Checklists for SREs](https://www.brendangregg.com/blog/2016-05-04/srecon2016-perf-checklists-for-sres.html) :green_book:
+* [South Bay SRE Meetup - Netflix Cloud Performance Team](https://youtu.be/uQ0flQOtQEA) :green_book:
+* [Software Performance Analysis Guided By SLOs](https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca) :green_book:
+* [A framework for pragmatic performance engineering](https://mterwill.com/posts/framework-for-performance-engineering/) :green_book:
 
 ## Programming
 * [Go Language for Ops and Site Reliability Engineering](http://www.oreilly.com/pub/e/2712)
